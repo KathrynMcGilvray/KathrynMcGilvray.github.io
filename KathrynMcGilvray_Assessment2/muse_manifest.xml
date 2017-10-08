@@ -1,22 +1,22 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="demo.kathryn_mcgilvray_assessment2" resolutions="1x" timestamp="1507454401453">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="demo.kathryn_mcgilvray_assessment2" resolutions="1x" timestamp="1507455347124">
   <folder name="css">
     <file name="site_global.css" crc="117355709"/>
     <file name="master_master.css" crc="391295095" ref="index:contact:services:policies---privacy:about:policies---terms-and-conditions:courses"/>
     <file name="nomq_preview_master_master.css" crc="3789846266" ref="index:contact:services:policies---privacy:about:policies---terms-and-conditions:courses"/>
-    <file name="index.css" crc="3822097280" ref="index"/>
-    <file name="nomq_index.css" crc="12949235" ref="index"/>
-    <file name="contact.css" crc="479386906" ref="contact"/>
-    <file name="nomq_contact.css" crc="4071883980" ref="contact"/>
-    <file name="services.css" crc="3902191575" ref="services"/>
-    <file name="nomq_services.css" crc="3856873419" ref="services"/>
-    <file name="policies---privacy.css" crc="309028121" ref="policies---privacy"/>
-    <file name="nomq_policies---privacy.css" crc="99625215" ref="policies---privacy"/>
-    <file name="about.css" crc="3790768494" ref="about"/>
-    <file name="nomq_about.css" crc="3791195736" ref="about"/>
-    <file name="policies---terms-and-conditions.css" crc="4287447397" ref="policies---terms-and-conditions"/>
-    <file name="nomq_policies---terms-and-conditions.css" crc="284734971" ref="policies---terms-and-conditions"/>
-    <file name="courses.css" crc="16192996" ref="courses"/>
-    <file name="nomq_courses.css" crc="151640830" ref="courses"/>
+    <file name="index.css" crc="3936006390" ref="index"/>
+    <file name="nomq_index.css" crc="134189153" ref="index"/>
+    <file name="contact.css" crc="48734476" ref="contact"/>
+    <file name="nomq_contact.css" crc="240269750" ref="contact"/>
+    <file name="services.css" crc="400360283" ref="services"/>
+    <file name="nomq_services.css" crc="3912815098" ref="services"/>
+    <file name="policies---privacy.css" crc="3844465468" ref="policies---privacy"/>
+    <file name="nomq_policies---privacy.css" crc="113349215" ref="policies---privacy"/>
+    <file name="about.css" crc="4134782471" ref="about"/>
+    <file name="nomq_about.css" crc="314660129" ref="about"/>
+    <file name="policies---terms-and-conditions.css" crc="4271474189" ref="policies---terms-and-conditions"/>
+    <file name="nomq_policies---terms-and-conditions.css" crc="3924122927" ref="policies---terms-and-conditions"/>
+    <file name="courses.css" crc="4261912442" ref="courses"/>
+    <file name="nomq_courses.css" crc="3800853022" ref="courses"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:services:about:courses:contact:policies---privacy:policies---terms-and-conditions"/>
@@ -463,11 +463,11 @@
       <caption webpage="policies---terms-and-conditions" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3868853482" seo="true" mt="1507454283789" redirect="true"/>
-  <file name="services.html" crc="3769855745" seo="true" mt="1507454283789" redirect="true"/>
-  <file name="about.html" crc="3896760325" seo="true" mt="1507454283789" redirect="true"/>
-  <file name="courses.html" crc="27983040" seo="true" mt="1507454283789" redirect="true"/>
-  <file name="contact.html" crc="291843584" seo="true" mt="1507454283789" redirect="true"/>
-  <file name="policies---privacy.html" crc="229188138" seo="true" mt="1507454283789" redirect="true"/>
-  <file name="policies---terms-and-conditions.html" crc="313683648" seo="true" mt="1507454283789" redirect="true"/>
+  <file name="index.html" crc="4011022753" seo="true" mt="1507455217082" redirect="true"/>
+  <file name="services.html" crc="156302451" seo="true" mt="1507455217082" redirect="true"/>
+  <file name="about.html" crc="249012224" seo="true" mt="1507455217082" redirect="true"/>
+  <file name="courses.html" crc="358705643" seo="true" mt="1507455217082" redirect="true"/>
+  <file name="contact.html" crc="4221115380" seo="true" mt="1507455217082" redirect="true"/>
+  <file name="policies---privacy.html" crc="234880395" seo="true" mt="1507455217082" redirect="true"/>
+  <file name="policies---terms-and-conditions.html" crc="3846365645" seo="true" mt="1507455217082" redirect="true"/>
 </manifest>

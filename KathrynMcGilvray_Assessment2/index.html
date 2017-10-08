@@ -18,17 +18,17 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=117355709"/>
   <link rel="stylesheet" type="text/css" href="css/master_master.css?crc=391295095"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3822097280" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3936006390" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_master.css?crc=3789846266"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=12949235" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=134189153" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
   <![endif]-->
-  <script src="https://use.typekit.net/ik/I9ijTCuXziqtJ6qVghvbyFbqd0mwqEQxhcPKvHg8GqtfeCqgfJcJzMIPH2w352IkwRmLwcZc5e4cF2yqFRZRwQjow2j3wQ6tFR93FQgRjAJhFRS-OfG0ZemldkonjWsGS180Oes8dAv0-hBX-Y4odKUaiaS0ZemldkonjWsGS180J6TliWF8dkuDjAoDJ6NldhozF29l-emyZeUTdc97fbRW2UMMeM96MKG4fFqVIMMjgkMfH6qJh3vbMg64JMJ7fbRm2UMMeMw6MKG4fFwVIMMjMPMfH6qJ7aqbMs6BJM4HgIuuShAbMZ2dovtB.js" type="text/javascript"></script>
+  <script src="https://use.typekit.net/ik/o-ZQk-q7VFLHalERqaDZkLgX5AEeGtHkfyph96LfV_SfeCqgfJcJzMIPH2w352IkwRmLwcZc5e4cF2yqFRZRwQjow2j3wQ6tFR93FQgRjAJhFRS-OfG0ZemldkonjWsGS180Oes8dAv0-hBX-Y4odKUaiaS0ZemldkonjWsGS180J6TliWF8dkuDjAoDJ6NldhozF29l-emyZeUTdc97fbRW2UMMeM96MKG4fFqVIMMjgkMfH6qJh3vbMg64JMJ7fbRm2UMMeMw6MKG4fFwVIMMjMPMfH6qJ7aqbMs6BJM4HgIuuShAbMSOKovtB.js" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    try {Typekit.load();} catch(e) {}
@@ -842,12 +842,12 @@ Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_960', '#bp_768', '#bp_55
 Muse.Utils.initWidget('#pamphletu5356', ['#bp_infinity', '#bp_960', '#bp_768'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:0,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu5356 */
 Muse.Utils.initWidget('#accordionu13699', ['#bp_550', '#bp_320'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu13699 */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#bp_320').one('muse_this_bp_activate', function(){
-$('#u235').registerBackgroundPositionScrollEffect([{"speed":[0,0.9],"in":[-Infinity,1428]},{"speed":[0,0.9],"in":[1428,Infinity]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
 $('#u1784').registerBackgroundPositionScrollEffect([{"speed":[0,0.8],"in":[-Infinity,47]},{"speed":[0,0.8],"in":[47,Infinity]}], $(this)); /* scroll effect */
 $('#u235').registerBackgroundPositionScrollEffect([{"speed":[0,0.8],"in":[-Infinity,1644.05]},{"speed":[0,0.8],"in":[1644.05,Infinity]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_320').one('muse_this_bp_activate', function(){
+$('#u235').registerBackgroundPositionScrollEffect([{"speed":[0,0.9],"in":[-Infinity,1428]},{"speed":[0,0.9],"in":[1428,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
