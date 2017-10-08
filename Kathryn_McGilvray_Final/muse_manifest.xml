@@ -1,0 +1,473 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="demo.kathryn_mcgilvray_final" resolutions="1x" timestamp="1507439298945">
+  <folder name="css">
+    <file name="site_global.css" crc="117355709"/>
+    <file name="master_master.css" crc="4157630594" ref="index:contact:services:policies---privacy:about:policies---terms-and-conditions:courses"/>
+    <file name="nomq_preview_master_master.css" crc="3884892887" ref="index:contact:services:policies---privacy:about:policies---terms-and-conditions:courses"/>
+    <file name="index.css" crc="416997250" ref="index"/>
+    <file name="nomq_index.css" crc="3892117890" ref="index"/>
+    <file name="contact.css" crc="307792822" ref="contact"/>
+    <file name="nomq_contact.css" crc="307970871" ref="contact"/>
+    <file name="services.css" crc="525988610" ref="services"/>
+    <file name="nomq_services.css" crc="3845083415" ref="services"/>
+    <file name="policies---privacy.css" crc="427882821" ref="policies---privacy"/>
+    <file name="nomq_policies---privacy.css" crc="247697088" ref="policies---privacy"/>
+    <file name="about.css" crc="270340205" ref="about"/>
+    <file name="nomq_about.css" crc="530327872" ref="about"/>
+    <file name="policies---terms-and-conditions.css" crc="258674965" ref="policies---terms-and-conditions"/>
+    <file name="nomq_policies---terms-and-conditions.css" crc="3922302228" ref="policies---terms-and-conditions"/>
+    <file name="courses.css" crc="4136775902" ref="courses"/>
+    <file name="nomq_courses.css" crc="490120572" ref="courses"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:services:about:courses:contact:policies---privacy:policies---terms-and-conditions"/>
+    <file name="museutils.js" crc="17924269" ref="index:services:about:courses:contact:policies---privacy:policies---terms-and-conditions"/>
+    <file name="whatinput.js" crc="86476730" ref="index:services:about:courses:contact:policies---privacy:policies---terms-and-conditions"/>
+    <file name="museconfig.js" crc="278381782" ref="index:services:about:courses:contact:policies---privacy:policies---terms-and-conditions"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="index:services:about:courses:contact:policies---privacy:policies---terms-and-conditions"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index:about"/>
+    <file name="webpro.js" crc="416662029" ref="index:services:about:courses:contact:policies---privacy:policies---terms-and-conditions"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:services:about:courses:contact:policies---privacy:policies---terms-and-conditions"/>
+    <file name="musewpdisclosure.js" crc="3809204180" ref="index:services:about:courses:contact:policies---privacy:policies---terms-and-conditions"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="index:about:policies---privacy:policies---terms-and-conditions"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:services:about:courses:contact:policies---privacy:policies---terms-and-conditions"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index:services:about:courses:contact:policies---privacy:policies---terms-and-conditions"/>
+    <file name="require.js" crc="3861931657" ref="index:services:about:courses:contact:policies---privacy:policies---terms-and-conditions"/>
+    <file name="form_check.php" crc="4110044762" ref="contact"/>
+    <file name="form_throttle.php" crc="22190333" ref="contact"/>
+    <file name="form_process.php" crc="257545537" ref="contact"/>
+    <file name="form-u26333.php" crc="4079726555" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="e in elearning.png" crc="3791783571" seo="true" ref="index:services:about:courses:contact:policies---privacy:policies---terms-and-conditions">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adobestock_115264881--converted-.gif" crc="4284831366" seo="true" ref="index:services:about:courses:contact:policies---privacy:policies---terms-and-conditions">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="adobestock_115264881--converted-2.gif" crc="4284831366" seo="true" ref="index:courses">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="elearning4.jpg" crc="4198390894" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico-spike-down.png" crc="4209736183" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="training logo graphic 2.png" crc="3853198620" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ellipse-1-and-head.gif" crc="86513660" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adobestock_102893249--converted-.gif" crc="4289052403" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="possibilties 3.jpg" crc="293187208" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact.gif" crc="168769871" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="info.png" crc="73142111" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="courses.png" crc="4216625557" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rectangle 5.jpg" crc="121414942" seo="true" ref="index:services:about:courses:contact:policies---privacy:policies---terms-and-conditions">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="training logo graphic 256x54.png" crc="146221222" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="elearning4-u1784-fr.jpg" crc="3840791530" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:services:about:courses:contact:policies---privacy:policies---terms-and-conditions"/>
+    <file name="consultant.png" crc="3907440490" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="professional.png" crc="444012091" seo="true" ref="services:policies---privacy:policies---terms-and-conditions">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+    </file>
+    <file name="compliance 3.png" crc="526422320" seo="true" ref="services:policies---privacy:policies---terms-and-conditions">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+    </file>
+    <file name="design.png" crc="4044888705" seo="true" ref="services:policies---privacy:policies---terms-and-conditions">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+    </file>
+    <file name="elearning button.png" crc="4177344347" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="project management2.png" crc="4268525253" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="services3-crop-u26790.jpg" crc="221051768" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="services3.jpg" crc="4240614887" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="tile_soft_bg.jpg" crc="3952440508" ref="about:policies---privacy:policies---terms-and-conditions">
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="kathryn_smallthumbnail2017.jpg" crc="3882051705" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="collaborate 2.png" crc="4039729774" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="bigstock--125641424.jpg" crc="4153009963" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="bigstock--125641424-u15037-fr.jpg" crc="4194039265" ref="about"/>
+    <file name="google.png" crc="341708870" seo="true" ref="courses">
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="vr.gif" crc="77427888" seo="true" ref="courses">
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="adobestock_129478680-crop-u27428.jpg" crc="317225743" seo="true" ref="courses">
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="training logo graphic 2159x155.png" crc="3925585129" seo="true" ref="courses">
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="knowledge-networks.gif" crc="4051115928" seo="true" ref="courses">
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="adobestock_129478680-crop-u274282.jpg" crc="317225743" seo="true" ref="courses">
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="adobestock_129478680-crop-u274283.jpg" crc="317225743" seo="true" ref="courses">
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="adobestock_129478680-crop-u274284.jpg" crc="317225743" seo="true" ref="courses">
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="training logo graphic 287x85.png" crc="344629072" seo="true" ref="courses">
+      <caption webpage="courses" alt=""/>
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="adobestock_129478680-crop-u274285.jpg" crc="317225743" seo="true" ref="courses">
+      <caption webpage="courses" alt=""/>
+    </file>
+    <file name="bigstock--166565033-crop-u25863.jpg" crc="312820420" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="adobestock_89099628 (1).jpg" crc="3801822658" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="bigstock--166565033-crop-u258632.jpg" crc="4212475311" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="bigstock--166565033-crop-u258633.jpg" crc="4212475311" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="bigstock--166565033-crop-u258634.jpg" crc="4212475311" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="bigstock--166565033-crop-u258635.jpg" crc="4212475311" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="info-and-policies.gif" crc="3847815541" seo="true" ref="policies---privacy:policies---terms-and-conditions">
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---privacy" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+      <caption webpage="policies---terms-and-conditions" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4191355614" seo="true" mt="1507438654151" redirect="true"/>
+  <file name="services.html" crc="289255336" seo="true" mt="1507438670574" redirect="true"/>
+  <file name="about.html" crc="3983147484" seo="true" mt="1507438654151" redirect="true"/>
+  <file name="courses.html" crc="144281647" seo="true" mt="1507438654151" redirect="true"/>
+  <file name="contact.html" crc="33890985" seo="true" mt="1507438654151" redirect="true"/>
+  <file name="policies---privacy.html" crc="4142869048" seo="true" mt="1507438654151" redirect="true"/>
+  <file name="policies---terms-and-conditions.html" crc="4011884084" seo="true" mt="1507438654151" redirect="true"/>
+</manifest>
