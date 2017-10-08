@@ -1,159 +1,237 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://demo.muse-themes.com/theme-build/index.html</loc>
-    <lastmod>2017-09-10</lastmod>
+    <loc>http://demo.kathryn_mcgilvray_final/index.html</loc>
+    <lastmod>2017-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/adobestock_115264881--converted-.gif</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/e%20in%20elearning.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/ico-spike-down.png</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/adobestock_115264881--converted-.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/ellipse-1-and-head.gif</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/adobestock_115264881--converted-2.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/home-tab3.jpg</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/ico-spike-down.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/info.png</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/training%20logo%20graphic%202.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/ellipse%201.png</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/ellipse-1-and-head.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/courses.png</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/adobestock_102893249--converted-.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/girl%20with%20goggle.png</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/contact.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/adobestock_97411069.jpg</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/info.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/rectangle%205.jpg</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/courses.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/e%20in%20elearning.png</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/rectangle%205.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/home-tab344x44.jpg</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/training%20logo%20graphic%20256x54.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://demo.muse-themes.com/theme-build/about.html</loc>
-    <lastmod>2017-09-10</lastmod>
+    <loc>http://demo.kathryn_mcgilvray_final/services.html</loc>
+    <lastmod>2017-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/adobestock_115264881--converted-.gif</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/e%20in%20elearning.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/rectangle%205.jpg</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/adobestock_115264881--converted-.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/e%20in%20elearning.png</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/rectangle%205.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/about-avatar.jpg</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/consultant.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/professional.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/compliance%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/design.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/elearning%20button.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/project%20management2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/services3-crop-u26790.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/services3.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://demo.muse-themes.com/theme-build/services.html</loc>
-    <lastmod>2017-09-10</lastmod>
+    <loc>http://demo.kathryn_mcgilvray_final/about.html</loc>
+    <lastmod>2017-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/adobestock_115264881--converted-.gif</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/e%20in%20elearning.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/rectangle%205.jpg</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/adobestock_115264881--converted-.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/e%20in%20elearning.png</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/rectangle%205.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/service-img1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/service-img4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/service-img5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/service-img6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/service-img2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/service-img3.jpg</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/collaborate%202.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://demo.muse-themes.com/theme-build/contact.html</loc>
-    <lastmod>2017-09-10</lastmod>
+    <loc>http://demo.kathryn_mcgilvray_final/courses.html</loc>
+    <lastmod>2017-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/adobestock_115264881--converted-.gif</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/e%20in%20elearning.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/rectangle%205.jpg</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/adobestock_115264881--converted-.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/e%20in%20elearning.png</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/adobestock_115264881--converted-2.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/rectangle%205.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/google.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/vr.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/adobestock_129478680-crop-u27428.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/training%20logo%20graphic%202159x155.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/knowledge-networks.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/adobestock_129478680-crop-u274282.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/adobestock_129478680-crop-u274283.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/adobestock_129478680-crop-u274284.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/training%20logo%20graphic%20287x85.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/adobestock_129478680-crop-u274285.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://demo.muse-themes.com/theme-build/reviews.html</loc>
-    <lastmod>2017-09-10</lastmod>
+    <loc>http://demo.kathryn_mcgilvray_final/contact.html</loc>
+    <lastmod>2017-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/adobestock_115264881--converted-.gif</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/e%20in%20elearning.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/rectangle%205.jpg</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/adobestock_115264881--converted-.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/e%20in%20elearning.png</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/rectangle%205.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/review-img1.jpg</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/bigstock--166565033-crop-u25863.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/review-img2.jpg</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/adobestock_89099628%20(1).jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/review-img3.jpg</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/bigstock--166565033-crop-u258632.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/review-img4.jpg</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/bigstock--166565033-crop-u258633.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/bigstock--166565033-crop-u258634.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/bigstock--166565033-crop-u258635.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://demo.muse-themes.com/theme-build/service-details.html</loc>
-    <lastmod>2017-09-10</lastmod>
+    <loc>http://demo.kathryn_mcgilvray_final/policies---privacy.html</loc>
+    <lastmod>2017-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/adobestock_115264881--converted-.gif</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/e%20in%20elearning.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/rectangle%205.jpg</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/adobestock_115264881--converted-.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://demo.muse-themes.com/theme-build/images/e%20in%20elearning.png</image:loc>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/rectangle%205.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/professional.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/compliance%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/design.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/info-and-policies.gif</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://demo.muse-themes.com/theme-build/assets/girl-with-goggle.png</loc>
-    <lastmod>2017-09-10</lastmod>
+    <loc>http://demo.kathryn_mcgilvray_final/policies---terms-and-conditions.html</loc>
+    <lastmod>2017-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/e%20in%20elearning.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/adobestock_115264881--converted-.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/rectangle%205.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/professional.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/compliance%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/design.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://demo.kathryn_mcgilvray_final/images/info-and-policies.gif</image:loc>
+    </image:image>
   </url>
 </urlset>
